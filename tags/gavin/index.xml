@@ -6,10 +6,21 @@
     <description>Recent content in gavin on Kato Sotaro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 15:59:13 -0400</lastBuildDate>
     
 	<atom:link href="https://kato-sotaro.github.io/tags/gavin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[週刊ダイヤモンド]　108巻　感想</title>
+      <link>https://kato-sotaro.github.io/blog/1/</link>
+      <pubDate>Mon, 23 Dec 2019 15:59:13 -0400</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/1/</guid>
+      <description>Note: This article originally appeared in CodeRag.
+Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
+ He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
+    </item>
     
     <item>
       <title>Hooli’s Hot New Hardware</title>
@@ -19,17 +30,6 @@
       <guid>https://kato-sotaro.github.io/blog/third/</guid>
       <description>Note: This article originally appeared in CodeRag.
 When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
-    </item>
-    
-    <item>
-      <title>Gavin Belson</title>
-      <link>https://kato-sotaro.github.io/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://kato-sotaro.github.io/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
     </item>
     
     <item>
