@@ -6,10 +6,19 @@
     <description>Recent content in analysis on Kato Sotaro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Dec 2019 12:48:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 12:17:09 +0900</lastBuildDate>
     
 	<atom:link href="https://kato-sotaro.github.io/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>金融データ分析　スマートベータ</title>
+      <link>https://kato-sotaro.github.io/blog/1_6_2020/</link>
+      <pubDate>Mon, 06 Jan 2020 12:17:09 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/1_6_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>食品業界分析</title>
