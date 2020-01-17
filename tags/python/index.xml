@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Kato Sotaro</title>
+    <link>https://kato-sotaro.github.io/tags/python/</link>
+    <description>Recent content in Python on Kato Sotaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:17:17 +0900</lastBuildDate>
+    
+	<atom:link href="https://kato-sotaro.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>迷路の最短手数のアルゴリズム</title>
+      <link>https://kato-sotaro.github.io/blog/1_7_2020/</link>
+      <pubDate>Tue, 07 Jan 2020 17:17:17 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/1_7_2020/</guid>
+      <description>迷路の最短手数を見つける  　迷路の最短手数を見つけるときに有名なアルゴリズムである幅優先探索を使用します。知識としては知っていましたが、実装をする経験を積んでおきたいと思い今回は記事を出しました。 それでは早速やっていきましょう。
+ 前提 　まずは、前提として迷路とは上下左右に移動できる二次元盤面上の迷路であるとします。さらに、その盤面には次のような情報を与えます。
+ 盤面サイズ、スタートの座標、ゴールの座標 通行可能か不可能かを示す文字列の情報を持った盤面   直感的なイメージ 　迷路のスタート地点からゴール地点までの最短歩数を見つける時のイメージとして下の図をつける。
+　スタートから近いマスから順番にたどり着く歩数を下の図のようにマーキングしていきゴール地点についたらその時の歩数を出力を行う。
+ キューを用いる 　この迷路の最短探索をするときには、先ほども述べた幅優先探索を行う。
+ コード  実行結果  感想 </description>
+    </item>
+    
+  </channel>
+</rss>
