@@ -88,12 +88,60 @@
 <hr>
 <h3 id="heading-3"><strong>キューを用いる</strong></h3>
 <p>　この迷路の最短探索をするときには、先ほども述べた幅優先探索を行う。</p>
+<p><img src="https://kato-sotaro.github.io/blog/photo/1_30_2020_2.png" alt="イメージ2" title="イメージ"></p>
+<p><img src="https://kato-sotaro.github.io/blog/photo/1_30_2020_3.png" alt="イメージ3" title="イメージ"></p>
 <hr>
 <h3 id="heading-4"><strong>コード</strong></h3>
-<hr>
+<pre><code>from collections import deque 
+#マップの高さと幅を記録する#
+height, width = map(int,input().split())
+#スタート地点を記録する#
+sy , sx = map(int, input().split())
+sy -=1
+sx -=1
+#ゴールを記録する#
+gy , gx = map(int, input().split())
+gy -=1
+gx -=1
+#マップを記録する#
+MAP = [list(input()) for i in range(height)]
+
+
+def bfs():
+  #手順を示す
+  step_map = [ [ float(&quot;inf&quot;) ]*width for i in range (height)]
+  #x軸の移動
+  dx = [1,-1,0,0]
+  #y軸の移動
+  dy = [0,0,-1,1]
+  #キューを作成
+  que = deque([(sy,sx)])
+  step_map[sy][sx] = 0
+  while que:
+    step_spot = que.popleft()
+    if step_spot[0]==gy and step_spot[1]==gx:
+      break
+    #四方向に確認
+    for i in range(4):
+      n = step_map[step_spot[0]][step_spot[1]] 
+      ny = step_spot[0] + dx[i]
+      nx = step_spot[1] + dy[i]
+      #進んだ先が&quot;.&quot;であること step_mapが数字じゃないとき 範囲内にある時
+      if nx &lt;= width-1 and nx&gt;=0 and ny &lt;=height-1 and ny&gt;=0 :
+        if MAP[ny][nx]==&quot;.&quot; and step_map[ny][nx]==float(&quot;inf&quot;) :
+          #進んだ先の回数をn+1
+          step_map[ny][nx] = n + 1
+          #キューに入れる
+          que.append((ny,nx))
+  return step_map[gy][gx]
+
+print(bfs())
+</code></pre><hr>
 <h3 id="heading-5"><strong>実行結果</strong></h3>
+<p><img src="https://kato-sotaro.github.io/blog/photo/1_30_2020_1.png" alt="イメージ１" title="表示結果"></p>
 <hr>
 <h3 id="heading-6"><strong>感想</strong></h3>
+<p>意味が理解できれば実装するのはかなり楽に行けた。</p>
 
   </div>
 </section>

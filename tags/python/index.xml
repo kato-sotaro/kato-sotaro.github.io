@@ -22,7 +22,7 @@
  盤面サイズ、スタートの座標、ゴールの座標 通行可能か不可能かを示す文字列の情報を持った盤面   直感的なイメージ 　迷路のスタート地点からゴール地点までの最短歩数を見つける時のイメージとして下の図をつける。
 　スタートから近いマスから順番にたどり着く歩数を下の図のようにマーキングしていきゴール地点についたらその時の歩数を出力を行う。
  キューを用いる 　この迷路の最短探索をするときには、先ほども述べた幅優先探索を行う。
- コード  実行結果  感想 </description>
+ コード from collections import deque #マップの高さと幅を記録する# height, width = map(int,input().split()) #スタート地点を記録する# sy , sx = map(int, input().split()) sy -=1 sx -=1 #ゴールを記録する# gy , gx = map(int, input().split()) gy -=1 gx -=1 #マップを記録する# MAP = [list(input()) for i in range(height)] def bfs(): #手順を示す step_map = [ [ float(&amp;quot;inf&amp;quot;) ]*width for i in range (height)] #x軸の移動 dx = [1,-1,0,0] #y軸の移動 dy = [0,0,-1,1] #キューを作成 que = deque([(sy,sx)]) step_map[sy][sx] = 0 while que: step_spot = que.</description>
     </item>
     
   </channel>
