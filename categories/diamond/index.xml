@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diamond on Kato Sotaro</title>
+    <title>Diamond on Kato Sotaro</title>
     <link>https://kato-sotaro.github.io/categories/diamond/</link>
-    <description>Recent content in diamond on Kato Sotaro</description>
+    <description>Recent content in Diamond on Kato Sotaro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Mar 2020 13:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 07:46:24 +0900</lastBuildDate>
     
 	<atom:link href="https://kato-sotaro.github.io/categories/diamond/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[週刊ダイヤモンド]　118巻　要約と感想</title>
+      <link>https://kato-sotaro.github.io/blog/3_25_2020/</link>
+      <pubDate>Thu, 26 Mar 2020 07:46:24 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/3_25_2020/</guid>
+      <description>要約  　おはようございます。今日はサークル仲間と一緒にキャンプ（奥多摩）にいってきます。朝九時集合ですが、その前に雑誌の要約のタスクを終わらせたいと思います。
+ 消費税が及ぼした影響 　内閣府が「四半期別GDP速報」を公表した。このデータから19年の10月から消費税増税により実質GDPに及ぼした影響は14年の4月の増税の影響よりも小さかった可能性がある。 新聞やテレビ等では実質GDPがマイナス7.1%になったと言われているがこれは年率換算であり、四半期ベースでは前期比マイナス1.8%でありこの値を利用する方が適切である。
+重要なポイント
+　むしろ重要なのは過去の増税期と比較して今回のインパクトがどうであったのかだ。消費増税が実質GDPにお及ぼす影響を把握するためにはトレンド成長率と比較する必要がある。
+　実質GDP-トレンド成長率
+　すなわち増税後の実質GDPがトレンド成長率よりも上回れば影響は少なく、下回れば影響は大きいということだ。
+トレンド成長率との関係性で評価しても影響はかなり小さかったと思われる。</description>
+    </item>
     
     <item>
       <title>[週刊ダイヤモンド]　114巻　要約と感想</title>

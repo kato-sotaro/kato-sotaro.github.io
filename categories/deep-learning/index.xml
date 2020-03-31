@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep-learning on Kato Sotaro</title>
+    <link>https://kato-sotaro.github.io/categories/deep-learning/</link>
+    <description>Recent content in Deep-learning on Kato Sotaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Mar 2020 11:11:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://kato-sotaro.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>深層学習　①</title>
+      <link>https://kato-sotaro.github.io/blog/3_27_2020/</link>
+      <pubDate>Fri, 27 Mar 2020 11:11:55 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/3_27_2020/</guid>
+      <description>要約  　おはようございます。都知事から自粛要請が出ましたが、勉強目的の研究室利用は大丈夫なのでしょうか？色々と今回のウイルスに伴って経済が停滞気味ですが、周りに流されることなく勉強をしていきたいと思います。
+　マネ●クス株が上がらなくて気分が上がりませんw
+ 順伝播型ネットワーク 　順伝播型ネットワークはニューラルネットワークの中で最も基本かつ使われている。
+ユニットの出力
+ 順伝播型ネットワーク   層状に並べたユニットが隣接層間でのみ結合した構造をもち、情報が入力から出力に一方向に伝播するニューラルネットワーク 文献によっては多層パーセプトロンと呼ばれている。
+ ネットワークを構成する各ユニットは複数の入力を受け取り１つの出力を計算する。</description>
+    </item>
+    
+  </channel>
+</rss>

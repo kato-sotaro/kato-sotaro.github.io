@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kato Sotaro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Mar 2020 13:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 09:52:01 +0900</lastBuildDate>
     
 	<atom:link href="https://kato-sotaro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>economy</title>
       <link>https://kato-sotaro.github.io/tags/economy/</link>
-      <pubDate>Sat, 21 Mar 2020 13:36:19 +0900</pubDate>
+      <pubDate>Tue, 31 Mar 2020 09:52:01 +0900</pubDate>
       
       <guid>https://kato-sotaro.github.io/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://kato-sotaro.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 27 Mar 2020 11:11:55 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
