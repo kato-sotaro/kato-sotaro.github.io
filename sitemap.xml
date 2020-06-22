@@ -163,12 +163,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/python/</loc>
+    <loc>https://kato-sotaro.github.io/tags/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/python/</loc>
+    <loc>https://kato-sotaro.github.io/categories/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
@@ -223,28 +223,18 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/about/</loc>
+    <loc>https://kato-sotaro.github.io/categories/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/about/</loc>
+    <loc>https://kato-sotaro.github.io/tags/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/blog/1/</loc>
     <lastmod>2019-12-23T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/categories/propaganda/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
@@ -270,16 +260,6 @@
   <url>
     <loc>https://kato-sotaro.github.io/tags/pied-piper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/blog/second/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/tags/ceo/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
   </url>
   
 </urlset>
