@@ -3,38 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kato-sotaro.github.io/blog/7_12_2020/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/blog/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/categories/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/categories/diamond/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/tags/economy/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/tags/</loc>
+    <lastmod>2020-07-12T11:40:02+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kato-sotaro.github.io/blog/7_06_2020/</loc>
     <lastmod>2020-07-06T14:47:02+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/blog/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/categories/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/categories/diamond/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/tags/economy/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/tags/</loc>
-    <lastmod>2020-07-06T14:47:02+09:00</lastmod>
+    <loc>https://kato-sotaro.github.io/blog/6_27_2020/</loc>
+    <lastmod>2020-06-27T15:24:56+09:00</lastmod>
   </url>
   
   <url>
@@ -168,12 +178,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/python/</loc>
+    <loc>https://kato-sotaro.github.io/categories/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/python/</loc>
+    <loc>https://kato-sotaro.github.io/tags/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
@@ -228,12 +238,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/about/</loc>
+    <loc>https://kato-sotaro.github.io/categories/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/about/</loc>
+    <loc>https://kato-sotaro.github.io/tags/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
@@ -265,10 +275,6 @@
   <url>
     <loc>https://kato-sotaro.github.io/tags/pied-piper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kato-sotaro.github.io/blog/6_27_2020/</loc>
   </url>
   
 </urlset>
