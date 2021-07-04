@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kato-sotaro.github.io/blog/6_19_2021/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <loc>https://kato-sotaro.github.io/blog/7_4_2021/</loc>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/blog/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/categories/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/categories/diamond/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/tags/economy/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/</loc>
-    <lastmod>2021-06-19T10:09:06+09:00</lastmod>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kato-sotaro.github.io/tags/</loc>
+    <lastmod>2021-07-04T10:28:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/blog/6_26_2021/</loc>
+    <lastmod>2021-06-26T21:32:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kato-sotaro.github.io/blog/6_19_2021/</loc>
     <lastmod>2021-06-19T10:09:06+09:00</lastmod>
   </url>
   
@@ -148,12 +158,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/story/</loc>
+    <loc>https://kato-sotaro.github.io/categories/story/</loc>
     <lastmod>2020-12-30T09:15:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/story/</loc>
+    <loc>https://kato-sotaro.github.io/tags/story/</loc>
     <lastmod>2020-12-30T09:15:20+09:00</lastmod>
   </url>
   
@@ -438,12 +448,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/python/</loc>
+    <loc>https://kato-sotaro.github.io/categories/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/python/</loc>
+    <loc>https://kato-sotaro.github.io/tags/python/</loc>
     <lastmod>2020-01-07T17:17:17+09:00</lastmod>
   </url>
   
@@ -498,12 +508,12 @@
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/categories/about/</loc>
+    <loc>https://kato-sotaro.github.io/tags/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kato-sotaro.github.io/tags/about/</loc>
+    <loc>https://kato-sotaro.github.io/categories/about/</loc>
     <lastmod>2019-12-23T22:55:05-04:00</lastmod>
   </url>
   
