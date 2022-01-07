@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entrepreneur on Kato Sotaro</title>
+    <link>https://kato-sotaro.github.io/tags/entrepreneur/</link>
+    <description>Recent content in entrepreneur on Kato Sotaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <lastBuildDate>Fri, 07 Jan 2022 13:48:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://kato-sotaro.github.io/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>アントレ起業内容</title>
+      <link>https://kato-sotaro.github.io/blog/1_7_2022/</link>
+      <pubDate>Fri, 07 Jan 2022 13:48:46 +0900</pubDate>
+      
+      <guid>https://kato-sotaro.github.io/blog/1_7_2022/</guid>
+      <description>起業概要 内容をまとめたスライド</description>
+    </item>
+    
+  </channel>
+</rss>
